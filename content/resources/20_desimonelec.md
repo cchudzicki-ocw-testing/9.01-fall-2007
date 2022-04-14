@@ -1,0 +1,18 @@
+---
+content_type: resource
+description: Lecture presentation on attention, selective attention characterized
+  by capacity limits and selectivity, the effects of attention on visual processing
+  and awareness, the ventral object recognition stream, and its "top-down" control
+  by attention, the fronto-parietal system for top-down attentional control, , and
+  interactions between prefrontal cortex and visual cortex.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-01-introduction-to-neuroscience-fall-2007/a4f3665f7c98664b835388ff6678f165_20_desimonelec.pdf
+file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+resourcetype: Document
+title: Attention
+uid: a4f3665f-7c98-664b-8353-88ff6678f165
+---
