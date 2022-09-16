@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents the schedule of lecture topics and selected lecture
+  notes for Parts 2 and 3 of the class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

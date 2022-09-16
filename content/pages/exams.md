@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides selected review material intended to prepare students
+  for the exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

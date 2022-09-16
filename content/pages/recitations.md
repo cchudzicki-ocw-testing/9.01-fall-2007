@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section presents selected notes from the three recitation sections.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
